@@ -1,7 +1,7 @@
               # Assigment-4
 
- # Assigment 00-05 ✔
-# 00_intro_python
+# # Assigment 00-05 ✔
+# # 00_intro_python
 https://colab.research.google.com/drive/19wAA3cy4F61QzPl8_RpxrrsfMq34vMTC
 https://colab.research.google.com/drive/1DIDbcZp85GfXfLXEXEo3uymsnm_ybBLs
 https://colab.research.google.com/drive/1DIDbcZp85GfXfLXEXEo3uymsnm_ybBLs
@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/12-RifkY-bn332JAqNAXKa7vF7RUXvCyK
 https://colab.research.google.com/drive/1niVNRA0r-iDJWj5k0upc373_vwb7Kyby
 https://colab.research.google.com/drive/1fn4bWk4yDucf3wR2rplnHhFV0SBboYox
 
-# 01_expressions 
+# # 01_expressions 
 # 01_dicesimulator
 https://colab.research.google.com/drive/1bZFZkM4vIJOjatbRP1lnkdY2sbLM4_gP
 # 02_e=mc2
@@ -27,5 +27,5 @@ https://colab.research.google.com/drive/1vRUgA2fS6aDgXCWvrMN2Ekdv34mD3V7O
 # 07_tiny_mad_lib
 https://colab.research.google.com/drive/1hUS6kWcPO__37Rj9PYDOy2r-m_I0Rfc4
 
-# 02_lists
+# # 02_lists
 
