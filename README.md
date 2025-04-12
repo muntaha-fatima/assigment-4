@@ -90,7 +90,7 @@ Yeh repo ek  Python coder ka safar dikhata hai – jahan har notebook ek naya mi
   *"Lists ko combine karo, ek super list banayiye! 🛠️"*
 
 ---
-GIAIC AI-101 PROJECTS
+# GIAIC AI-101 PROJECTS
 📌 My Python Project
 This repository contains multiple Python projects, from fun text-based games to interactive web applications built with Streamlit. Each project is designed to enhance Python skills and explore various programming concepts. 🚀
 
